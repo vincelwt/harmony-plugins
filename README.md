@@ -1,3 +1,8 @@
+# REPO DEPRECATED
+
+All plugins now have their separate repos, check them here:
+https://github.com/topics/harmony-plugin
+
 # Plugins for Harmony
 
 All Harmony's plugins are open-sourced.
